@@ -11,3 +11,9 @@
 - ~: NOT
 
 > Serão destrinchadas depois
+
+> [!NOTE]
+> sdfjgscjbsdfghcvhsd
+
+> [!OBSERVAÇÃO]
+> sbhbdcjhsvchjfd
