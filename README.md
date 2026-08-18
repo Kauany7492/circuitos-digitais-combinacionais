@@ -7,7 +7,9 @@
 ##Tabelas verdades necessárias:
 
 -∧: AND
+
 -∨: OR
+
 -~: NOT
 
 > Serão destrinchadas depois
