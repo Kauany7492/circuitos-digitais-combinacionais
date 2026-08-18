@@ -10,4 +10,5 @@
 - ∨: OR
 - ~: NOT
 
-> Serão destrinchadas depois
+> [!NOTE]
+> Serão mostradas melhor nas próximas aulas.
